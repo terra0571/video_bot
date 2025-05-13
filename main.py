@@ -5,7 +5,7 @@ import os
 # Telegram API ma'lumotlari (Siz taqdim etgan)
 API_ID = 27941617
 API_HASH = "732e799ff25d34b1b41842216a8aa5cf"
-BOT_TOKEN = "7496406827:AAFQLB2h5eNd6DcUuq_T9W6tr1cive_KgPk"
+BOT_TOKEN = "7496406827:AAFBf0dXknanmHizdIHgDE_hiJIEapzKmzw"
 
 # Botni yaratamiz
 app = Client("video_downloader_bot",
